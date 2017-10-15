@@ -33,6 +33,30 @@ When a user signs in, an additional verification is sent to the user. The follow
 
 ## Physical vs Virtual tokens
 
+MFA tokens can be split into three categories.
+
+* Call/SMS
+* Virtual tokens
+* Physical tokens
+
+#### SMS
+Within the security community and governance bodies, the use of SMS/Text or Phone calls as Out of band verification is no longer recommended as two-factor authentication, because of their many insecurities.
+
+https://www.schneier.com/blog/archives/2016/08/nist_is_no_long.html
+
+#### Virtual tokens
+Virtual tokens are the easiest to use, as usually the user has an app on their smartphone and will be able to either copy the token in the device itself to another app, or type on another device/computer.
+
+#### Physical tokens
+Physical tokens are one of the more secure form, given they can't typically be copied/cloned.
+
+They can be available in the form of credit card format or keychains with LCD displays, or USB-(A/C) dongles.
+
+Recently NFC based dongles appeared in the market, but their support is very limited. 
+
+https://www.theverge.com/2017/1/26/14397276/facebook-two-factor-nfc-security-key-account-hack
+
+
 ### 2FA apps
 
 ### Physical tokens
@@ -63,3 +87,4 @@ https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-
 
 http://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html
 
+https://www.facebook.com/notes/facebook-security/security-key-for-safer-logins-with-a-touch/10154125089265766/
