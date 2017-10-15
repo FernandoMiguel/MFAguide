@@ -55,6 +55,7 @@ When a user signs in, an additional verification is sent to the user. The follow
 Sadly not every online service provides the user with the means to secure their sign-in.
 
 The following site lists the state of many sites as to if they support or not MFA:
+
 **https://twofactorauth.org/**
 
 ### Protocols
@@ -64,11 +65,9 @@ The Time-based One-Time Password algorithm (TOTP) is an algorithm that computes 
 
 [From the Wikipedia:](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm)
 
-```
-TOTP is an example of a hash-based message authentication code (HMAC). It combines a secret key with the current timestamp using a cryptographic hash function to generate a one-time password. Because network latency and out-of-sync clocks can result in the password recipient having to try a range of possible times to authenticate against, the timestamp typically increases in 30-second intervals, which thus cuts the potential search space.
+> TOTP is an example of a hash-based message authentication code (HMAC). It combines a secret key with the current timestamp using a cryptographic hash function to generate a one-time password. Because network latency and out-of-sync clocks can result in the password recipient having to try a range of possible times to authenticate against, the timestamp typically increases in 30-second intervals, which thus cuts the potential search space.
 
-In a typical two-factor authentication application, user authentication proceeds as follows: a user enters username and password into a website or other server, generates a one-time password for the server using TOTP running locally on a smartphone or other device, and types that password into the server as well. The server then also runs TOTP to verify the entered one-time password. For this to work, the clocks of the user's device and the server need to be roughly synchronized (the server will typically accept one-time passwords generated from timestamps that differ by ±1 time interval from the client's timestamp). A single secret key, to be used for all subsequent authentication sessions, must have been shared between the server and the user's device over a secure channel ahead of time. If some more steps are carried out, the user can also authenticate the server using TOTP.
-```
+> In a typical two-factor authentication application, user authentication proceeds as follows: a user enters username and password into a website or other server, generates a one-time password for the server using TOTP running locally on a smartphone or other device, and types that password into the server as well. The server then also runs TOTP to verify the entered one-time password. For this to work, the clocks of the user's device and the server need to be roughly synchronized (the server will typically accept one-time passwords generated from timestamps that differ by ±1 time interval from the client's timestamp). A single secret key, to be used for all subsequent authentication sessions, must have been shared between the server and the user's device over a secure channel ahead of time. If some more steps are carried out, the user can also authenticate the server using TOTP.
 
 * HOTP
 HOTP is an HMAC-based one-time password (OTP) algorithm. 
@@ -78,9 +77,10 @@ The main difference between HOTP and TOTP is that the HOTP passwords can be vali
 * U2F
 U2F is an open authentication standard that enables internet users to securely access any number of online services, with one single device, instantly and with no drivers, or client software needed.
 
-U2F was created by Google and Yubico. The technical specifications are hosted by the open-authentication industry consortium known as the FIDO Alliance.
+U2F was created by Google and Yubico. The technical specifications are hosted by the open-authentication industry consortium known as the [FIDO Alliance] (https://fidoalliance.org/) .
 
 A list of services that use FIDO U2F.
+
 https://www.yubico.com/solutions/#FIDO-U2F
 
 ## Physical vs Virtual tokens
