@@ -141,21 +141,21 @@ The user should print them, and keep them safe.
 * Google Accounts https://authy.com/guides/gmail/
 * Github https://authy.com/guides/github/
 * Slack  https://authy.com/guides/slack/
-* Facebook  https://authy.com/guides/facebook/
-* Twitter   https://authy.com/guides/twitter/
-* Dropbox https://authy.com/guides/dropbox/
-* Amazon https://authy.com/guides/amazon/
+* Facebook  [https://authy.com/guides/facebook/](https://authy.com/guides/facebook/)
+* Twitter   [https://authy.com/guides/twitter/](https://authy.com/guides/twitter/)
+* Dropbox [https://authy.com/guides/dropbox/](https://authy.com/guides/dropbox/)
+* Amazon [https://authy.com/guides/amazon/](https://authy.com/guides/amazon/)
 
 # Sources
 
-https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication
+[https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication](https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication)
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html
+[https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html)
 
-https://www.facebook.com/notes/facebook-security/security-key-for-safer-logins-with-a-touch/10154125089265766/
+[https://www.facebook.com/notes/facebook-security/security-key-for-safer-logins-with-a-touch/10154125089265766/](https://www.facebook.com/notes/facebook-security/security-key-for-safer-logins-with-a-touch/10154125089265766/)
 
-https://aws.amazon.com/iam/details/mfa/
+[https://aws.amazon.com/iam/details/mfa/](https://aws.amazon.com/iam/details/mfa/)
 
-https://help.github.com/articles/about-two-factor-authentication/
+[https://help.github.com/articles/about-two-factor-authentication/](https://help.github.com/articles/about-two-factor-authentication/)
 
-https://www.yubico.com/solutions/fido-u2f/
+[https://www.yubico.com/solutions/fido-u2f/](https://www.yubico.com/solutions/fido-u2f/)
