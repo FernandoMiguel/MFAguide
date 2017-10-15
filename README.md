@@ -40,11 +40,11 @@ When a user signs in, an additional verification is sent to the user. The follow
 
 * Mobile app notification
 
-   A verification request is sent to a user’s smart phone. The user enters a PIN if necessary then selects Verify on the mobile app.
+   A verification request is sent to a user’s smartphone. The user enters a PIN if necessary then selects Verify on the mobile app.
 
 * Mobile app verification code
 
-   The mobile app, which is running on a user’s smart phone, displays a verification code that changes every 30 seconds. The user finds the most recent code and enters it on the sign-in page.
+   The mobile app, which is running on a user’s smartphone, displays a verification code that changes every 30 seconds. The user finds the most recent code and enters it on the sign-in page.
 
 * Third-party OATH tokens
 
@@ -108,7 +108,7 @@ Physical tokens are one of the more secure form, given they can't typically be c
 
 They can be available in the form of credit card format or keychains with LCD displays, or USB-(A/C) dongles.
 
-Recently NFC based dongles appeared in the market, but their support is very limited. 
+Recently, NFC based dongles appeared in the market, but their support is very limited. 
 
 [https://www.theverge.com/2017/1/26/14397276/facebook-two-factor-nfc-security-key-account-hack](https://www.theverge.com/2017/1/26/14397276/facebook-two-factor-nfc-security-key-account-hack)
 
@@ -132,9 +132,9 @@ The most common MFA apps are:
 
 ## Recovery
 
-Both physical and virtual tokens are possible of being lost or malfunction. 
+Both physical and virtual tokens can be lost or malfunction. 
 
-To prevent loss of access to the user account when the MFA token is not available, **printed codes** are availble on most services.
+To prevent loss of access to the user account when the MFA token is not available, **printed codes** are available on most services.
 
 The user should print them, and keep them safe.
 
