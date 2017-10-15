@@ -81,7 +81,7 @@ U2F was created by Google and Yubico. The technical specifications are hosted by
 
 A list of services that use FIDO U2F:
 
-https://www.yubico.com/solutions/#FIDO-U2F
+[https://www.yubico.com/solutions/#FIDO-U2F](https://www.yubico.com/solutions/#FIDO-U2F)
 
 ## Physical vs Virtual tokens
 
