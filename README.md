@@ -49,6 +49,12 @@ The user should print them, and keep them safe.
 ## Guides
 
 * Google Accounts https://authy.com/guides/gmail/
+* Github https://authy.com/guides/github/
+* Slack  https://authy.com/guides/slack/
+* Facebook  https://authy.com/guides/facebook/
+* Twitter   https://authy.com/guides/twitter/
+* Dropbox https://authy.com/guides/dropbox/
+* Amazon https://authy.com/guides/amazon/
 
 
 # Sources
