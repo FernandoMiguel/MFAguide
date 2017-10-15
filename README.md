@@ -1,5 +1,23 @@
 # MFA guide
 
+<!-- TOC -->
+
+- [MFA guide](#mfa-guide)
+    - [Introduction](#introduction)
+        - [Methods available for two-step verification](#methods-available-for-two-step-verification)
+        - [Site or Service support](#site-or-service-support)
+    - [Physical vs Virtual tokens](#physical-vs-virtual-tokens)
+            - [SMS](#sms)
+            - [Virtual tokens](#virtual-tokens)
+            - [Physical tokens](#physical-tokens)
+    - [FA apps](#fa-apps)
+    - [Physical tokens](#physical-tokens-1)
+    - [Recovery](#recovery)
+- [Guides](#guides)
+- [Sources](#sources)
+
+<!-- /TOC -->
+
 ## Introduction
 
 Multi-Factor or Two-step verification is a method of authentication that requires more than one verification method and adds a critical second layer of security to user sign-ins. It works by requiring any two or more of the following verification methods:
@@ -65,7 +83,7 @@ Recently NFC based dongles appeared in the market, but their support is very lim
 
 https://www.theverge.com/2017/1/26/14397276/facebook-two-factor-nfc-security-key-account-hack
 
-### 2FA apps
+## FA apps
 
 The most common MFA apps are:
 
@@ -75,7 +93,7 @@ The most common MFA apps are:
 * LastPass Authenticator https://lastpass.com/multifactor-authentication/
 * DUO https://duo.com/product/trusted-users/two-factor-authentication/duo-mobile
 
-### Physical tokens
+## Physical tokens
 
 The most common MFA apps are:
 
@@ -83,7 +101,7 @@ The most common MFA apps are:
 * Gemalto Safenet https://safenet.gemalto.com/multi-factor-authentication/authenticators/
 * RSA SecurID  http://www.tokenguard.com/RSA-SecurID-Hardware.asp
 
-### Recovery
+## Recovery
 
 Both physical and virtual tokens are possible of being lost or malfunction. 
 
@@ -91,7 +109,7 @@ To prevent loss of access to the user account when the MFA token is not availabl
 
 The user should print them, and keep them safe.
 
-## Guides
+# Guides
 
 * Google Accounts https://authy.com/guides/gmail/
 * Github https://authy.com/guides/github/
