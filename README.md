@@ -56,7 +56,7 @@ Sadly not every online service provides the user with the means to secure their 
 
 The following site lists the state of many sites as to if they support or not MFA:
 
-**https://twofactorauth.org/**
+**[https://twofactorauth.org/](https://twofactorauth.org/)**
 
 ### Protocols
 
@@ -94,7 +94,9 @@ MFA tokens can be split into three categories.
 #### SMS
 Within the security community and governance bodies, the use of SMS/Text or Phone calls as Out of band verification is no longer recommended as two-factor authentication, because of their many insecurities.
 
-https://www.schneier.com/blog/archives/2016/08/nist_is_no_long.html
+[https://www.schneier.com/blog/archives/2016/08/nist_is_no_long.html
+](https://www.schneier.com/blog/archives/2016/08/nist_is_no_long.html
+)
 
 #### Virtual tokens
 
@@ -108,25 +110,25 @@ They can be available in the form of credit card format or keychains with LCD di
 
 Recently NFC based dongles appeared in the market, but their support is very limited. 
 
-https://www.theverge.com/2017/1/26/14397276/facebook-two-factor-nfc-security-key-account-hack
+[https://www.theverge.com/2017/1/26/14397276/facebook-two-factor-nfc-security-key-account-hack](https://www.theverge.com/2017/1/26/14397276/facebook-two-factor-nfc-security-key-account-hack)
 
 ## MFA apps
 
 The most common MFA apps are:
 
-* Authy https://authy.com/download/
-* Google Authenticator https://support.google.com/accounts/answer/1066447
-* Microsoft Authenticator https://docs.microsoft.com/azure/multi-factor-authentication/end-user/microsoft-authenticator-app-how-to
-* LastPass Authenticator https://lastpass.com/multifactor-authentication/
-* DUO https://duo.com/product/trusted-users/two-factor-authentication/duo-mobile
+* Authy [https://authy.com/download/](https://authy.com/download/)
+* Google Authenticator [https://support.google.com/accounts/answer/1066447](https://support.google.com/accounts/answer/1066447)
+* Microsoft Authenticator [https://docs.microsoft.com/azure/multi-factor-authentication/end-user/microsoft-authenticator-app-how-to](https://docs.microsoft.com/azure/multi-factor-authentication/end-user/microsoft-authenticator-app-how-to)
+* LastPass Authenticator [https://lastpass.com/multifactor-authentication/](https://lastpass.com/multifactor-authentication/)
+* DUO [https://duo.com/product/trusted-users/two-factor-authentication/duo-mobile](https://duo.com/product/trusted-users/two-factor-authentication/duo-mobile)
 
 ## Physical tokens
 
 The most common MFA apps are:
 
-* Yubiko Yubikeys https://www.yubico.com/store/
-* Gemalto Safenet https://safenet.gemalto.com/multi-factor-authentication/authenticators/
-* RSA SecurID  https://www.tokenguard.com/RSA-SecurID-Hardware.asp
+* Yubiko Yubikeys [https://www.yubico.com/store/](https://www.yubico.com/store/)
+* Gemalto Safenet [https://safenet.gemalto.com/multi-factor-authentication/authenticators/](https://safenet.gemalto.com/multi-factor-authentication/authenticators/)
+* RSA SecurID  [https://www.tokenguard.com/RSA-SecurID-Hardware.asp](https://www.tokenguard.com/RSA-SecurID-Hardware.asp)
 
 ## Recovery
 
@@ -138,9 +140,9 @@ The user should print them, and keep them safe.
 
 # Guides
 
-* Google Accounts https://authy.com/guides/gmail/
-* Github https://authy.com/guides/github/
-* Slack  https://authy.com/guides/slack/
+* Google Accounts [https://authy.com/guides/gmail/](https://authy.com/guides/gmail/)
+* Github [https://authy.com/guides/github/](https://authy.com/guides/github/)
+* Slack  [https://authy.com/guides/slack/](https://authy.com/guides/slack/)
 * Facebook  [https://authy.com/guides/facebook/](https://authy.com/guides/facebook/)
 * Twitter   [https://authy.com/guides/twitter/](https://authy.com/guides/twitter/)
 * Dropbox [https://authy.com/guides/dropbox/](https://authy.com/guides/dropbox/)
