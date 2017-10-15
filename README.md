@@ -77,9 +77,9 @@ The main difference between HOTP and TOTP is that the HOTP passwords can be vali
 * U2F
 U2F is an open authentication standard that enables internet users to securely access any number of online services, with one single device, instantly and with no drivers, or client software needed.
 
-U2F was created by Google and Yubico. The technical specifications are hosted by the open-authentication industry consortium known as the [FIDO Alliance] (https://fidoalliance.org/) .
+U2F was created by Google and Yubico. The technical specifications are hosted by the open-authentication industry consortium known as the [FIDO Alliance](https://fidoalliance.org/) .
 
-A list of services that use FIDO U2F.
+A list of services that use FIDO U2F:
 
 https://www.yubico.com/solutions/#FIDO-U2F
 
