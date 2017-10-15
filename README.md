@@ -7,7 +7,6 @@ Multi-Factor or Two-step verification is a method of authentication that require
 * Something you have (a trusted device that is not easily duplicated, like a phone)
 * Something you are (biometrics)
 
-
 ### Methods available for two-step verification
 
 When a user signs in, an additional verification is sent to the user. The following are a list of methods that can be used for this second verification.
@@ -31,6 +30,13 @@ When a user signs in, an additional verification is sent to the user. The follow
 * Third-party OATH tokens
 
    Physical tokens like Yubikey
+
+### Site or Service support
+
+Sadly not every online service provides the user with the means to secure their sign-in.
+
+The following site lists the state of many sites as to if they support or not MFA:
+https://twofactorauth.org/
 
 ## Physical vs Virtual tokens
 
@@ -102,3 +108,7 @@ https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-
 http://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html
 
 https://www.facebook.com/notes/facebook-security/security-key-for-safer-logins-with-a-touch/10154125089265766/
+
+https://aws.amazon.com/iam/details/mfa/
+
+https://help.github.com/articles/about-two-factor-authentication/
