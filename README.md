@@ -59,6 +59,15 @@ https://www.theverge.com/2017/1/26/14397276/facebook-two-factor-nfc-security-key
 
 ### 2FA apps
 
+The most common MFA apps are
+
+* Authy https://authy.com/download/
+* Google Authenticator https://support.google.com/accounts/answer/1066447
+* Microsoft Authenticator https://docs.microsoft.com/en-us/azure/multi-factor-authentication/end-user/microsoft-authenticator-app-how-to
+* LastPass Authenticator https://lastpass.com/multifactor-authentication/
+* DUO https://duo.com/product/trusted-users/two-factor-authentication/duo-mobile
+
+
 ### Physical tokens
 
 ### Recovery
