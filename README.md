@@ -1,7 +1,7 @@
-# MFAguide
+# MFA guide
 
 ## Introduction
-Two-step verification is a method of authentication that requires more than one verification method and adds a critical second layer of security to user sign-ins and transactions. It works by requiring any two or more of the following verification methods:
+Multi-Factor or Two-step verification is a method of authentication that requires more than one verification method and adds a critical second layer of security to user sign-ins. It works by requiring any two or more of the following verification methods:
 * Something you know (typically a password)
 * Something you have (a trusted device that is not easily duplicated, like a phone)
 * Something you are (biometrics)
@@ -31,13 +31,24 @@ When a user signs in, an additional verification is sent to the user. The follow
 
    Physical tokens like Yubikey
 
+## Physical vs Virtual tokens
 
+### 2FA apps
+
+### Physical tokens
 
 ### Recovery
 
-## Physical vs Virtual tokens
+Both physical and virtual tokens are possible of being lost or malfunction. 
+
+To prevent loss of access to the user account when the MFA token is not available, **printed codes** are availble on most services.
+
+The user should print them, and keep them safe.
+
 
 ## Guides
+
+* Google Accounts https://authy.com/guides/gmail/
 
 
 # Sources
