@@ -11,7 +11,7 @@
             - [SMS](#sms)
             - [Virtual tokens](#virtual-tokens)
             - [Physical tokens](#physical-tokens)
-    - [FA apps](#fa-apps)
+    - [MFA apps](#mfa-apps)
     - [Physical tokens](#physical-tokens-1)
     - [Recovery](#recovery)
 - [Guides](#guides)
@@ -110,7 +110,7 @@ Recently NFC based dongles appeared in the market, but their support is very lim
 
 https://www.theverge.com/2017/1/26/14397276/facebook-two-factor-nfc-security-key-account-hack
 
-## FA apps
+## MFA apps
 
 The most common MFA apps are:
 
