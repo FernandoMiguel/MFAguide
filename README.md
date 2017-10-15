@@ -1,5 +1,9 @@
 # MFA guide
 
+## **TL:DR  [Jump to the Guides](#guides)**
+
+or keep on reading 
+
 <!-- TOC -->
 
 - [MFA guide](#mfa-guide)
