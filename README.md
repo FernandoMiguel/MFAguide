@@ -128,7 +128,7 @@ The most common MFA apps are:
 
 ## Physical tokens
 
-The most common MFA apps are:
+The most common physical MFA tokens are:
 
 * Yubiko Yubikeys [https://www.yubico.com/store/](https://www.yubico.com/store/)
 * Gemalto Safenet [https://safenet.gemalto.com/multi-factor-authentication/authenticators/](https://safenet.gemalto.com/multi-factor-authentication/authenticators/)
