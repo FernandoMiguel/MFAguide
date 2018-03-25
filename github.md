@@ -7,6 +7,7 @@
         - [GitHub sshkeys](#github-sshkeys)
         - [Generate a sshkey pair](#generate-a-sshkey-pair)
     - [Using git with https](#using-git-with-https)
+    - [HTTPS vs ssh](#https-vs-ssh)
 
 <!-- /TOC -->
 ***
@@ -22,7 +23,7 @@ Don't forget to save securely your [recovery codes](https://github.com/settings/
 
 `$ git clone git@GitHub.com:FernandoMiguel/MFAguide.git`
 
-asks for sshkey password, unless key is loaded into RAM 
+asks for sshkey password, unless key is unlocked 
 
 Which can be achieved with:
 > $ ssh-add  ~/.ssh/ed25519
@@ -56,3 +57,10 @@ But since you now have MFA enabled, your web password no longer works.
 Instead you must use a [Personal access tokens](https://GitHub.com/settings/tokens)
 
 You can securely store that token in your keychain.
+
+
+## HTTPS vs ssh
+
+Personally I opt to use https methods, since I don't like having my sshkey unlocked.
+
+By using https methods, code editors can more easilly interact with git repos.
