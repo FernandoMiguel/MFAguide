@@ -128,6 +128,7 @@ The most common MFA apps are:
 * Microsoft Authenticator [https://docs.microsoft.com/azure/multi-factor-authentication/end-user/microsoft-authenticator-app-how-to](https://docs.microsoft.com/azure/multi-factor-authentication/end-user/microsoft-authenticator-app-how-to)
 * LastPass Authenticator [https://lastpass.com/multifactor-authentication/](https://lastpass.com/multifactor-authentication/)
 * DUO [https://duo.com/product/trusted-users/two-factor-authentication/duo-mobile](https://duo.com/product/trusted-users/two-factor-authentication/duo-mobile)
+* 1Password [https://blog.agilebits.com/2015/01/26/totp-for-1password-users/](https://blog.agilebits.com/2015/01/26/totp-for-1password-users/)
 
 ## Physical tokens
 
